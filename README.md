@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Cursera Repo test
+Coursera Repo test
